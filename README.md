@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://juan880630.github.io/)
-- Live Site URL: [Add live site URL here](https://github.com/juan880630/juan880630.github.io)
+- Solution URL: [Add solution URL here](https://github.com/juan880630/juan880630.github.io)
+- Live Site URL: [Add live site URL here](https://juan880630.github.io/)
 
 ## My process
 
