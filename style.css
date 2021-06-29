@@ -69,12 +69,12 @@ article p {
 }
 
 button {
-    border: none;
     padding: 10px 25px;
     border-radius: 20px;
     border: 2px solid hsl(0, 0%, 95%);
     background-color: hsl(0, 0%, 95%);
     font-family: "Lexend Deca", sans-serif;
+    transition: border .5s ease-in-out, background-color .5s ease-in-out, color .5s ease-in-out;
 }
 
 article:first-of-type button {
